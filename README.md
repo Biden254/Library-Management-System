@@ -25,4 +25,4 @@ It includes tables for members, books, authors, staff, and borrowings, with rela
 1. Clone this repo:
    ```bash
    git clone <your_repo_url>
-   cd Frameworks_Assignment
+   cd Databases
